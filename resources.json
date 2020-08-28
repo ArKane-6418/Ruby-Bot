@@ -1,0 +1,11 @@
+{
+  "ozo": ["Ozo is cute", "Ozo is smart", "Protec Ozo", "Hug Ozo", "Rubycord loves Ozo", "Pat ozo", "Ozo is super ultra mega cute and smart"],
+  "WelcomeChannel": {"583864496964108288": 583873540772593675,
+    "175184929611710465": 581843990912172032,
+    "532048598888742924": 603809782742384652},
+  "WelcomeMsg": {"583864496964108288": "Welcome to the Test Server, {}",
+    "175184929611710465":  "Welcome to Rubycord, {}! <a:ganbaonechan:660602824081670163>",
+    "532048598888742924": "Welcome to the Casual Server, {}!"},
+  "BotChannel": {"583864496964108288": 583872784497770499,
+    "175184929611710465": 659405687008264202, "532048598888742924": 603809782742384652}
+}
